@@ -147,3 +147,23 @@ silver {
     justify-content: space-around;
     padding: 20px 0px;
 }
+
+.contacto1 {
+
+
+    text-align: center;
+    padding: 20px 0px;
+    font-size: 18px;
+
+}
+
+.info {
+    margin: 20px;
+}
+
+.datos {
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+    margin: 20px;
+}
